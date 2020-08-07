@@ -1,0 +1,12 @@
+$white: #ddd;
+$black: #333;
+
+body {
+  background: $white;
+  color: $black;
+  font-family: Helvetica, sans-serif;
+}
+
+img {
+  max-width: 100%;
+}
